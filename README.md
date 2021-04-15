@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 Reach me out:
 
-[![Twitter Badge](https://img.shields.io/badge/-@jfguerragg-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/jfguerragg)](https://twitter.com/jfguerragg) 
+[![Twitter Badge](https://img.shields.io/badge/-@jfguerragg-E80000?style=flat-square&labelColor=E80000&logo=twitter&logoColor=white&link=https://twitter.com/jfguerragg)](https://twitter.com/jfguerragg) 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Guerra-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-alves-a18882120/)](https://www.linkedin.com/in/jonathan-alves-a18882120/) 
