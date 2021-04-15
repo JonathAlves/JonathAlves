@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 
 Reach me out:
 
-[![Twitter Badge](https://img.shields.io/badge/-@jfguerragg
--6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/jfguerragg)](https://twitter.com/jfguerragg) 
+[![Twitter Badge](https://img.shields.io/badge/-@jfguerragg-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/jfguerragg)](https://twitter.com/jfguerragg) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
 
 
