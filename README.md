@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Jonathan Guerra, I'm from Brazil 🇧🇷 . I'm a student of Computer Science at the State University of Paraiba, where i am at the 4th semester at the moment.
+My name is Jonathan Guerra, I'm from Brazil 🇧🇷 . I'm a student of Computer Science at the State University of Paraiba, in the 4th semester at the moment.
 
 I'm very passionate about software development, especially working with Java and Javascript. Always open to face challenges and ready to try everything that leverages my career.
 
@@ -8,7 +8,7 @@ I'm very passionate about software development, especially working with Java and
 Here are some ideas to get you started:
 
 - 📌 I’m currently working on ...
-- 📌I’m currently learning Angular framework, vueJS, jQuery, Bootstrap webpack
+- 📌 I’m currently learning Angular framework, vueJS, jQuery, Bootstrap webpack
 
 Reach me out:
 
