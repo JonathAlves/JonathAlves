@@ -8,7 +8,7 @@ I'm very passionate about software development, especially working with Java and
 Here are some ideas to get you started:
 
 - 📌 I’m currently working on ...
-- 📌 I’m currently learning Angular framework, vueJS, jQuery, Bootstrap webpack
+- 📌 I’m currently learning Angular framework
 
 Reach me out:
 
