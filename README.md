@@ -5,7 +5,7 @@ My name is Jonathan Guerra, I'm from Brazil 🇧🇷 and I'm a student of Analys
 I'm very passionate about software development, especially working with Java, Javascript and i'm currently learning somethings about the angular framework. Always open to face challenges and ready to try everything that leverages my career.
 
 
-Here are some ideas to get you started:
+My activities:
 
 - 📌 I’m currently working at Accenture as a Jr Analyst Java
 - 📌 Currently learning Angular framework
