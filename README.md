@@ -7,7 +7,7 @@ I'm very passionate about software development, especially working with Java, Ja
 
 My activities:
 
-- 📌 I’m currently working at Accenture as a Jr Analyst Java and at Korporate Solution Factory as a Software Engeneer Java.
+- 📌 I’m currently working at Accenture as a Jr Analyst Java and at Korporate Solution Factory as a Software Engineer Java.
 - 📌 Currently learning Angular framework and ReactJS.
 
 Reach me out:
