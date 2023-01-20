@@ -1,16 +1,7 @@
-# Hi there 👋
+### Hello, my name is Jonathan Guerra 🖖
+#
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jfguerragg)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanguerra-dev/)
 
-My name is Jonathan Guerra, I'm from Brazil 🇧🇷 and I'm a student of Analysis and systems development at UNIESP.
 
-I'm very passionate about software development, especially working with Java, Javascript and i'm currently learning somethings about the angular framework. I'm always open to face challenges and ready to try everything that leverages my career.
-
-
-My activities:
-
-- 📌 I’m currently working at Accenture as a Jr Analyst Java and at Korporate Solution Factory as a Software Engineer Java.
-- 📌 Currently learning Angular framework and ReactJS.
-
-Reach me out:
-
-[![Twitter Badge](https://img.shields.io/badge/-@jfguerragg-E80000?style=flat-square&labelColor=E80000&logo=twitter&logoColor=white&link=https://twitter.com/jfguerragg)](https://twitter.com/jfguerragg) 
-[![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Guerra-E80000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-alves-a18882120/)](https://www.linkedin.com/in/jonathanguerra-dev/) 
+![Jonathan's Github stats](https://github-readme-stats.vercel.app/api?username={JonathAlves}&theme=blue-green)
