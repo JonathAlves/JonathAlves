@@ -2,7 +2,7 @@
 
 My name is Jonathan Guerra, I'm from Brazil 🇧🇷 and I'm a student of Analysis and systems development at UNIESP.
 
-I'm very passionate about software development, especially working with Java, Javascript and i'm currently learning somethings about the angular framework. Always open to face challenges and ready to try everything that leverages my career.
+I'm very passionate about software development, especially working with Java, Javascript and i'm currently learning somethings about the angular framework. I'm always open to face challenges and ready to try everything that leverages my career.
 
 
 My activities:
