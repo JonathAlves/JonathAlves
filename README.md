@@ -1,7 +1,7 @@
 ### Welcome! 👋 My name is Jonathan
 
 
-- 🏢 I am currently a student of Analysis and Development of Systems at Estácio de Sá and software developer at Korporate Solution Factory
+- 🏢 I am currently a student of Analysis and Development of Systems at Estácio de Sá and currently looking for a developer position.
 - 💻 Work with application development, mainly with Java and Spring Boot as a Backend developer
 - 💭 Open to face new challenges and passionate about tecnology
 #
