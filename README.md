@@ -2,8 +2,8 @@
 
 
 - 🏢 Degree in systems analysis and development
-- 💻 Work with application development, mainly with Java and Spring Boot as a Backend developer
-- 💭 Open to face new challenges and passionate about tecnology
+- 💻 Work with application development, mainly with Java, Spring Boot and Quarkus as a Backend developer, but also can work as a full stack developer using VueJS and Angular.
+- 💭 Open to face new challenges and passionate about tecnology. Currently learning mobile development with flutter and supabase.
 #
 
  <div>
