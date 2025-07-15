@@ -2,9 +2,8 @@
 
 
 - 🏢 Degree in systems analysis and development
-- 💻 Work with application development, mainly with Java, Spring Boot and Quarkus as a Backend developer, but also can work as a full stack developer using VueJS and Angular.
-- 💭 Open to face new challenges and passionate about tecnology. Currently learning mobile development with flutter and supabase.
-#
+- 💻 Work with application development, mainly with Java, Spring Boot and Quarkus as a Backend developer, but also can work as a Full Stack developer using VueJS and Angular.
+- 💭 Open to face new challenges and passionate about tecnology. Currently learning Mobile Development with Flutter.
 
  <div>
   <a href="https://github.com/JonathAlves">
