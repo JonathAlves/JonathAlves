@@ -1,4 +1,4 @@
-### Bem vindo! 👋 me chamo Jonathan
+# Bem vindo! 👋 me chamo Jonathan
 
 # 🚀 Sobre mim
 
