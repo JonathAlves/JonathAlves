@@ -1,6 +1,6 @@
 # Bem vindo! 👋 me chamo Jonathan
 
-# 🚀 Sobre mim
+## 🚀 Sobre mim
 
 Sou **Backend Developer Pleno**, com forte especialização em **Java** e foco em construir soluções robustas, escaláveis e bem arquitetadas.
 
