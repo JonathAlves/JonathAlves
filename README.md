@@ -1,19 +1,19 @@
-# Bem vindo! 👋 me chamo Jonathan
+# Welcome! 👋 My name is Jonathan
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Sou **Backend Developer Pleno**, com forte especialização em **Java** e foco em construir soluções robustas, escaláveis e bem arquitetadas.
+I'm a **Backend Engineer**, with strong specialization in the **Java** ecosystem and focused in building scalable and well designed applications.
 
-- 💼 Backend Developer Pleno  
-- ☕ Especialista em Java  
-- 🧠 Foco em **arquitetura**, **performance** e **manutenibilidade**  
-- 🔗 Experiência com **APIs REST** e integração entre sistemas  
-- ☁️ Familiaridade com **cloud** e **containers**  
-- 📈 Interesse constante em **evolução técnica** e **boas práticas**
+- 💼 Backend Engineer
+- ☕ Java Specialist 
+- 🧠 Focus on **architecture**, **performance** e **maintainability**  
+- 🔗 Experience with **REST APIs** and systems integration.
+- ☁️ Experience with **cloud** and **containerized applications**  
+- 📈 Continuous application of the **best coding practices** and **clean code**
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack
 
 ### 🔙 Backend
 - Java 8 / 11 / 17 / 21  
@@ -26,50 +26,50 @@ Sou **Backend Developer Pleno**, com forte especialização em **Java** e foco e
 - MapStruct  
 - Lombok  
 
-### 🔐 Segurança
+### 🔐 Security
 - Spring Security  
 - JWT  
-- OAuth2 (conceitos)  
-- Controle de acesso por roles  
+- OAuth2  
+- Access controll by roles
 
-### 🗄️ Banco de Dados
+### 🗄️ Database
 - PostgreSQL  
 - MongoDB  
-- Modelagem relacional  
-- Otimização de consultas  
+- Relational modeling
+- Query optimization 
 
-### 🎨 Frontend
-- TypeScript  
+### 🎨 Frontend/Mobile
+- Flutter  
 - Vue.js (Vue 2 / Vue 3)  
 - Angular  
-- Consumo de APIs REST  
-- Componentização
+- APIs REST integration
 
 ### ☁️ DevOps & Infra
 - Docker  
 - Docker Compose  
-- Linux (ambiente de desenvolvimento)  
+- Linux
+- Gitlab CI/CD
+- AWS
 
-### 🧪 Testes
+### 🧪 Testing
 - JUnit 5  
 - Mockito  
-- Testes unitários  
-- Testes de integração  
-- Jacoco  
+- Unit Tests  
+- Integration Tests  
+- Jacoco (Coverage)
 
 ---
 
-## 📂 O que você vai encontrar aqui
+## 📂 What you wil find here
 
-- 📦 APIs REST em Java  
-- 🧩 Exemplos de arquiteturas bem estruturadas  
-- 🔐 Implementações de autenticação e segurança  
-- 🧪 Projetos com foco em testes  
-- 📚 Estudos e provas de conceito  
-- 🚧 Projetos pessoais em evolução (MVPs)  
+- 📦 Personal projects mainly with java and flutter 
+- 🧩 Well designed application
+- 🔐 Authentication and security implementation
+- 📚 Studies and concept proof  
+- 🚧 MVPs in progress 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div> 
   <a href="mailto:jonalves91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -78,6 +78,6 @@ Sou **Backend Developer Pleno**, com forte especialização em **Java** e foco e
 
 ---
 
-## ⭐ Curiosidade
+## ⭐ Curiosity
 
-Gosto de transformar ideias em produtos funcionais, com foco em um backend sólido, bem estruturado e pronto para escalar.
+I like to transform good ideas on functional products, with a solid backend, well structured and scale ready.
