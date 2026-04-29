@@ -2,9 +2,9 @@
 
 ## 🚀 About me
 
-I'm a **Backend Engineer**, with strong specialization in the **Java** ecosystem and focused in building scalable and well designed applications.
+I'm a **Senior Backend Engineer**, with strong specialization in the **Java** ecosystem and focused in building scalable and well designed applications.
 
-- 💼 Backend Engineer
+- 💼 Senior Backend Engineer
 - ☕ Java Specialist 
 - 🧠 Focus on **architecture**, **performance** e **maintainability**  
 - 🔗 Experience with **REST APIs** and systems integration.
