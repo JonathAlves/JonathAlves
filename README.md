@@ -1,83 +1,60 @@
-# Welcome! 👋 My name is Jonathan
+# Welcome! 👋 My name is Jonathan Guerra
 
-## 🚀 About me
+## 🚀 About Me
 
-I'm a **Senior Backend Engineer**, with strong specialization in the **Java** ecosystem and focused in building scalable and well designed applications.
+I am a **Senior Backend Software Engineer** based in Brazil, specializing in the **Java ecosystem**, distributed systems, and modern cloud architectures. My daily mission is to transform complex business requirements into highly scalable, resilient, and maintainable software.
 
-- 💼 Senior Backend Engineer
-- ☕ Java Specialist 
-- 🧠 Focus on **architecture**, **performance** e **maintainability**  
-- 🔗 Experience with **REST APIs** and systems integration.
-- ☁️ Experience with **cloud** and **containerized applications**  
-- 📈 Continuous application of the **best coding practices** and **clean code**
+*   💼 **Current Focus:** Engineering high-criticality, mission-critical core communication and instant payment flows (PIX).
+*   ☕ **Java Specialist:** Deep expertise spanning Java 8 through Java 21, Spring Boot, and Quarkus microservices.
+*   🧠 **Architecture & Clean Code:** Strong advocate for Hexagonal Architecture (Ports and Adapters), Event-Driven design patterns, and rigorous software craftsmanship.
+*   🛡️ **Resilience & Security:** Hands-on experience implementing fault-tolerance patterns (Circuit Breakers, Retries, Rate Limiters via Resilience4j) and robust identity/access management solutions.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Technical Stack & Ecosystem
 
-### 🔙 Backend
-- Java 8 / 11 / 17 / 21  
-- Spring Boot  
-- Quarkus  
-- Spring Web (REST)  
-- Spring Data JPA / Hibernate  
-- Bean Validation  
-- Flyway / Liquibase  
-- MapStruct  
-- Lombok  
+### 🔙 Backend & Core
+*   **Languages:** Java (8, 11, 17, 21, 25), Dart, JavaScript
+*   **Frameworks:** Spring Boot, Quarkus, Spring Web (REST APIs), Microprofile
+*   **Data & Persistence:** Spring Data JPA, Hibernate, PostgreSQL, MongoDB, MySQL, Oracle
+*   **Database Migration:** Flyway, Liquibase
+*   **Utilities:** MapStruct, Lombok, Bean Validation
 
-### 🔐 Security
-- Spring Security  
-- JWT  
-- OAuth2  
-- Access controll by roles
+### 🔐 Security & Identity
+*   **Frameworks:** Spring Security, HashiCorp Vault, Consul (Dynamic Configuration)
+*   **Protocols:** OAuth2, JWT, Role-Based Access Control (RBAC)
 
-### 🗄️ Database
-- PostgreSQL  
-- MongoDB  
-- Relational modeling
-- Query optimization 
+### 📊 Observability & Event-Driven
+*   **Messaging:** Apache Kafka, Event-Driven Architecture
+*   **Resilience:** Resilience4j (Circuit Breaker, Retry, Rate Limiter)
 
-### 🎨 Frontend/Mobile
-- Flutter  
-- Vue.js (Vue 2 / Vue 3)  
-- Angular  
-- APIs REST integration
+### 🧪 Testing & Quality
+*   **Testing:** JUnit 5, Mockito, Unit & Integration Testing
+*   **Quality Gates:** SonarQube, JaCoCo (Code Coverage Analysis)
 
-### ☁️ DevOps & Infra
-- Docker  
-- Docker Compose  
-- Linux
-- Gitlab CI/CD
-- AWS
+### ☁️ DevOps & Infrastructure
+*   **Containerization:** Docker, Docker Compose, Kubernetes
+*   **CI/CD & OS:** GitLab CI/CD, Linux environments
+*   **Cloud:** AWS (Amazon Web Services)
 
-### 🧪 Testing
-- JUnit 5  
-- Mockito  
-- Unit Tests  
-- Integration Tests  
-- Jacoco (Coverage)
+### 🎨 Frontend & Mobile Ecosystem
+*   **Mobile:** Flutter & Dart (Cross-platform applications)
+*   **Web:** Vue.js (Vue 2 / Vue 3), Angular
 
 ---
 
-## 📂 What you wil find here
+## 📂 What You Will Find Here
 
-- 📦 Personal projects mainly with java and flutter 
-- 🧩 Well designed application
-- 🔐 Authentication and security implementation
-- 📚 Studies and concept proof  
-- 🚧 MVPs in progress 
----
-
-## 📫 Contact
-
-<div> 
-  <a href="mailto:jonalves91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonathanguerra-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+*   📦 **Production-Grade Side Projects:** Modular backends utilizing clean architecture patterns integrated with robust Flutter/Vue mobile and web frontends.
+*   🧩 **System Design Architectures:** Proof of Concepts (PoCs) illustrating distributed transactions, event-driven orchestration, and service decoupling.
+*   🔐 **Security Implementations:** Standalone modules focused on OAuth2 workflows and identity provider integrations.
+*   🚧 **Active MVPs:** Ongoing development of digital solutions exploring scalability and performance boundaries.
 
 ---
 
-## ⭐ Curiosity
+## 📫 Connect With Me
 
-I like to transform good ideas on functional products, with a solid backend, well structured and scale ready.
+Feel free to reach out if you want to discuss backend architecture, distributed systems, or global remote opportunities!
+
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonalves91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanguerra-dev/)
