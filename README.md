@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a **Senior Software Engineer** based in Brazil, specializing in the **Java ecosystem**, distributed systems, and modern cloud architectures. My daily mission is to transform complex business requirements into highly scalable, resilient, and maintainable software.
+I am a **Senior Software Engineer** based in Brazil, specialized in the **Java ecosystem**, distributed systems, and modern cloud architectures. My daily mission is to transform complex business requirements into highly scalable, resilient, and maintainable software.
 
 *   💼 **Current Focus:** Engineering high-criticality, mission-critical core communication and instant payment flows (PIX).
 *   ☕ **Java Specialist:** Deep expertise spanning Java 8 through Java 21, Spring Boot, and Quarkus microservices.
